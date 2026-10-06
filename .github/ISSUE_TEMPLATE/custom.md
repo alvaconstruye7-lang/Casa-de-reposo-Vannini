@@ -1,10 +1,19 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: Plantilla para historias de usuario de enfermería
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+Markdown
+### User Story
+As a 
+I need 
+So that 
 
+### Acceptance Criteria
+Given 
+When 
+Then
